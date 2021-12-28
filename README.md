@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Colin and I am frontend developer.
+My name is Colin and I am a frontend developer.
 
 - 🔭 I’m currently working on projects with Vue and creating an own design system with a component library 💚
-- 🌱 I’m currently learning Next.js and React 💙
 
-<!--
+<!-- - 🌱 I’m currently learning Next.js and React 💙
+
 **cnschwarz/cnschwarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
