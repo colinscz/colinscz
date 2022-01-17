@@ -2,7 +2,7 @@
 
 My name is Colin and I am a frontend developer.
 
-- 🔭 I’m currently working on projects with Vue and creating an own design system with a component library 💚
+- 🔭 I’m currently working on projects with Vue and contributing to a set of Vue based projects 💚
 
 <!-- - 🌱 I’m currently learning Next.js and React 💙
 
