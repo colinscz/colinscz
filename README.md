@@ -3,7 +3,9 @@
 My name is Colin and I am a frontend developer.
 
 - 🔭 I’m currently contributing to a set of Vue based or related projects 💚
-- 🏗️ Professionally I work with Nx, Angular as well as Next.js with TailwindCSS 
+- 🏗️ Professionally I work with:
+  - Nx, Angular as well as Next.js with TailwindCSS and
+  - Stencil.js for a Web components library
 
 <!-- - 🌱 I’m currently learning Next.js and React 💙
 
