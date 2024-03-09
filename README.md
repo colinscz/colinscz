@@ -3,11 +3,27 @@
 My name is Colin and I am a frontend developer.
 
 - 🔭 I’m currently contributing to a set of Vue based or related projects 
-- 🌱 I’m learning and extending my know-how in Nuxt 3 💚
+- 🌱 I’m learning and extending my know-how in Nuxt 3, Vue 💚 and Three.js 
 - 🏗️ Professionally I work with:
   - Nx and Angular 16 
   - Next.js with TailwindCSS and
   - on the [SIX Web components library](https://github.com/six-group/six-webcomponents) based on Stencil.js 
+
+
+<h2 align="center">Where you can find me</h2>
+<br>
+<p align="center">
+  <a href="https://twitter.com/colinscz" target="_blank">🐦 Twitter</a>
+  <br>
+    <a href="https://mastodon.social/@colinscz" target="_blank">🐘 Mastodon</a>
+  <br>
+</p><br>
+
+<h2 align="center">Metrics</h2><br>
+
+<div align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
 
 <!-- - 🌱 I’m currently learning Next.js and React 💙
 
