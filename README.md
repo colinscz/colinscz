@@ -13,7 +13,9 @@ My name is Colin and I am a frontend developer.
 <h2 align="center">Where you can find me</h2>
 <br>
 <p align="center">
-  <a href="https://twitter.com/colinscz" target="_blank">🐦 Twitter</a>
+    <a href="https://bsky.app/profile/colinscz.bsky.social" target="_blank">🦋 Bluesky</a>
+  <br>
+    <a href="https://twitter.com/colinscz" target="_blank">🐦 Twitter</a>
   <br>
     <a href="https://mastodon.social/@colinscz" target="_blank">🐘 Mastodon</a>
   <br>
