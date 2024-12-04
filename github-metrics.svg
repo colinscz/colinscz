@@ -40,8 +40,8 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -184,7 +184,7 @@
                     <rect mask="url(#languages-bar)" x="281.107248444689" y="0" width="79.99474005598515" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="361.10198850067417" y="0" width="55.25250754227605" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="416.35449604295025" y="0" width="25.349907195240657" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.7044032381909" y="0" width="17.13865091504888" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.7044032381909" y="0" width="17.13865091504888" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="458.8430541532398" y="0" width="1.0470916137145483" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="459.89014576695433" y="0" width="0.10985423304574943" height="8" fill="#89e051"/>
                 </svg>
@@ -215,7 +215,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
