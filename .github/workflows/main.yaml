@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: manniL/metrics@main
+      - uses: TheAlexLichter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -20,5 +20,5 @@ jobs:
           base: header, activity, repositories
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          plugin_languages_skipped: manniL/fp-in-php, manniL/php-is-dead-long-live-php, manniL/map-reduce-filter-no-loops-needed
+          plugin_languages_skipped: TheAlexLichter/fp-in-php, TheAlexLichter/php-is-dead-long-live-php, TheAlexLichter/map-reduce-filter-no-loops-needed
           optimize: css, xml
