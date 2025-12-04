@@ -3,7 +3,8 @@
 My name is Colin and I am a frontend developer.
 
 - 🔭 I’m currently contributing to a set of Vue based or related projects 
-- 🌱 I’m learning and extending my know-how in Nuxt, Vue 💚 and Three.js 
+- 🌱 I’m learning and extending my know-how in Nuxt, Vue 💚 and Three.js
+- 🤓 I contribute to TresJS and I am a maintainer on the project.
 - 🏗️ Professionally I work with:
   - Nx and Angular 20
   - Next.js with TailwindCSS and
