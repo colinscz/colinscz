@@ -4,9 +4,9 @@ My name is Colin and I am a frontend developer.
 
 - 🔭 I’m currently contributing to a set of Vue based or related projects 
 - 🌱 I’m learning and extending my know-how in Nuxt, Vue 💚 and Three.js
-- 🤓 I contribute to TresJS and I am a maintainer on the project.
+- 🤓 I am a maintainer on the TresJS project.
 - 🏗️ Professionally I work with:
-  - Nx and Angular 20
+  - Nx and Angular 21
   - Next.js with TailwindCSS and
   - on the [SIX Web components library](https://github.com/six-group/six-webcomponents) based on Stencil.js 
 
