@@ -15,6 +15,7 @@ jobs:
       - uses: TheAlexLichter/metrics@ba90fde79bdf302c15969599678e8cbed1fe3c62
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: none
 
           # Options
           user: colinscz
