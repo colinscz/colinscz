@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: TheAlexLichter/metrics@ba90fde79bdf302c15969599678e8cbed1fe3c62
         with:
